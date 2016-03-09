@@ -6,4 +6,5 @@ h1 {
     display: block;
     text-align: center;
     color: firebrick;
+    text-shadow: 2px 4px 4px red;
 }
